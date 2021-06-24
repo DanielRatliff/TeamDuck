@@ -13,7 +13,7 @@ public class InClassExercise4 {
 		}
 		i = 0; //Reset i counter to 0
 		do {
-			if ((i+1)%2 == 1) // Check if i is odd
+			if ((intArray[i])%2 == 1) // Check if i is odd
 			{
 				intArray[i] += 5; //If i is odd, add 5 to the value
 			} 
