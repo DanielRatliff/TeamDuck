@@ -43,9 +43,11 @@ public class loopExercise {
 			}else {
 				ar+="SIX!!!";
 			}
+			//unnecessary code to make output easier to read
 			if(y==26) {
 				ar+="\n";
 			}
+			//unnecessary fenceposting code
 			if(y!=testarray.length-1) {
 				ar+=", ";
 			}else {
